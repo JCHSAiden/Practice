@@ -1,0 +1,10 @@
+"""
+Make a program that asks for user input. INPUT b QUESTION, not defining a var.
+Ask for int or string,
+If int, ask for int and if string ask for string
+This input is then:
+  if int, asks for operation,
+    then x to perform on
+  if string then print it in a line.
+  STRINGS can be defined with "name" (the parentheses)
+"""
